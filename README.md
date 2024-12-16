@@ -1,2 +1,2 @@
 # Currency-Converter
-A robust Python project for currency conversion using NumPy, Pandas, SciPy, and RegEx, with real-time exchange rates. Converts between multiple currencies while ensuring accuracy. Features advanced data handling, validation with RegEx, and integration with live APIs for up-to-date rates.
+This Currency Converter project allows users to convert amounts between different currencies using predefined exchange rates stored in a Pandas DataFrame. It leverages NumPy for calculations and includes error handling for invalid inputs. The project is extensible for live rate integration and additional features.
